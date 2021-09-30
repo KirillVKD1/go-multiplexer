@@ -59,4 +59,3 @@ http://www.mocky.io/v2/5d99a2893100005d0097d991
 http://www.mocky.io/v2/5d99a2c6310000550097d992
 Fake API Failed Response (500 Error)
 http://www.mocky.io/v2/5d9c2d4931000055002fc3e5
-  
