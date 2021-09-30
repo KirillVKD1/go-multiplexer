@@ -1,3 +1,3 @@
-module main.go
+module go-multiplexer
 
 go 1.16
